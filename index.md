@@ -6,4 +6,4 @@
 
 
 [link](https://moodle.boun.edu.tr/login/)
-
+[link](hw2.html)
