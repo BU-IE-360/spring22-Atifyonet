@@ -7,4 +7,4 @@
 
 [link](https://moodle.boun.edu.tr/login/)
 [link](hw2.html)
-[link](IE 360 PROJECT REPORT.pdf)
+[link](PROJECT.pdf)
